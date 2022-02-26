@@ -9,17 +9,8 @@
         font-family: 'Roboto', sans-serif;
     }
     
-    nav {
-        height: 8rem;
-    }
-    
-    section {
-        width: 70%;
-    }
-    
-    footer {
-        margin-top: 3rem;
-        text-align: center;
+    h3 {
+        color: #707070;
     }
     
     h4 {
@@ -30,7 +21,7 @@
         color: #212529;
     }
     
-    h6 {
+    h6 h3 {
         color: #707070;
     }
     
@@ -52,7 +43,6 @@
     }
     
     #bordes {
-        border-color: #f8f9fa;
-        border-style: solid;
-        border-radius: 2px;
+        border: 2px solid #f8f9fa;
+        border-radius: 3px;
     }
